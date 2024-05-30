@@ -40,7 +40,8 @@ By leveraging IoT technologies and cloud services, we aim to establish a scalabl
 
 Our project endeavors to contribute to the ongoing efforts in environmental monitoring and management by developing an innovative embedded system for AQI indication and reporting. Through collaboration with stakeholders and the adoption of cutting-edge technologies, we strive to create a sustainable solution with a tangible impact on air quality assessment and improvement initiatives.
 <p align="center"><ins>  Project images </ins></p>
+
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1uVJQnhF4Bp64EyjBThUNTK4QjE-uazMQ" alt="Image 1" width="500"/>
-  <img src="https://drive.google.com/uc?export=view&id=1U4FD0MFbRSrA1ybwcUH8C4uxT8Y92Ou9" alt="Image 2" width="500"/>
+  <img src="https://drive.google.com/uc?export=view&id=1yZLoyRm_KqA0Rru7tVPt_xZBcA34tmbn" alt="Image 1" width="500"/>
+  <img src="https://drive.google.com/uc?export=view&id=1y-q3IvvfvpQD_X9WKF0srpK_s1XjDYDN" alt="Image 2" width="500"/>
 </div>
