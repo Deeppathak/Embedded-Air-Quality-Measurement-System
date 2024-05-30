@@ -1,7 +1,7 @@
 # Embedded-Air-Quality-Measurement-System
 **Project Description:**
 
-Our project centers on designing an embedded system to monitor and report the Air Quality Index (AQI) using sensor data, including PM1.0, PM2.5, PM10.0, temperature, and humidity measurements. These sensors will play a pivotal role in assessing air quality conditions and their potential impact on health and the environment.
+This project centers on designing an embedded system to monitor and report the Air Quality Index (AQI) using sensor data, including PM1.0, PM2.5, PM10.0, temperature, and humidity measurements. These sensors will play a pivotal role in assessing air quality conditions and their potential impact on health and the environment.
 
 **Objective:**
 The primary objective of this project is to develop a robust embedded system capable of:
