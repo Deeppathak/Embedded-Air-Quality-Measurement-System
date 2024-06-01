@@ -52,8 +52,11 @@ The successful implementation of this project will yield an integrated solution 
 
 Our project endeavors to contribute to the ongoing efforts in environmental monitoring and management by developing an innovative embedded system for AQI indication and reporting. Through collaboration with stakeholders and the utilization of cutting-edge technologies, we strive to create a sustainable solution with a tangible impact on air quality assessment and improvement initiatives.
 <p align="center"><ins>  Project images </ins></p>
-
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1yZLoyRm_KqA0Rru7tVPt_xZBcA34tmbn" alt="Image 1" width="500"/>
   <img src="https://drive.google.com/uc?export=view&id=1y-q3IvvfvpQD_X9WKF0srpK_s1XjDYDN" alt="Image 2" width="500"/>
+</div>
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1UuYIaJ2UUKjKw1lsjapgiFBD-fyPxZL6" alt="Image 1" width="500"/>
+  <img src="https://drive.google.com/uc?export=view&id=1D8-x0XYncjOy1EFt4-rTumuE7Eae6Qa4" alt="Image 2" width="500"/>
 </div>
